@@ -1,11 +1,12 @@
 {
-  "name": "gentelella",
+  "name": "wl-gentelella",
   "homepage": "https://colorlib.com/polygon/gentelella/index.html",
   "authors": [
     "Aigars Silkalns",
-    "Christian Esperar"
+    "Christian Esperar",
+    "Laura Pagan"
   ],
-  "description": "Gentelella Admin is a free to use Bootstrap admin template",
+  "description": "Gentelella light vendor version",
   "keywords": [
     "css",
     "js",
@@ -15,7 +16,8 @@
     "bootstrap",
     "theme",
     "backend",
-    "responsive"
+    "responsive",
+    "light vendor version"
   ],
   "license": "MIT",
   "ignore": [
